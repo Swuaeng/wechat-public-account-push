@@ -25,7 +25,7 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '9c0KLFrzcM2k4RO_wFnx5VKQPjrYC_pmvaVPolfsxJM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '07-20',
+      horoscopeDate: '09-25',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
 //         {
@@ -47,6 +47,16 @@ const USER_CONFIG = {
 //         { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
+    {
+      name: '波妞',
+      id: 'o0REF556XmgNlV_TsnSVMUrg-jqg',
+      useTemplateId: '9c0KLFrzcM2k4RO_wFnx5VKQPjrYC_pmvaVPolfsxJM',
+      horoscopeDate: '07-20',
+      festivals: [
+      ],
+      customizedDateList: [
+      ]
+    }
   ],
 
 
